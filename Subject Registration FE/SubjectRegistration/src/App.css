@@ -1,0 +1,108 @@
+.App {
+  text-align: center;
+}
+
+#needToLogin {
+  text-transform: uppercase;
+  font-weight: bolder;
+  color: red;
+}
+
+th {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bolder;
+  font-size: larger;
+}
+
+li {
+  font-size: xx-large;
+  font-weight: bolder;
+}
+
+#studentName {
+  font-size: xx-large;
+  color: white;
+  font-weight: bolder;
+}
+
+td {
+  font-weight: bolder;
+}
+
+.titleList {
+  text-transform: capitalize;
+}
+
+input { 
+  text-align: center; 
+}
+
+#RegistrationList {
+  /* color: lightsteelblue; */
+  color: lightslategrey;
+  text-transform: uppercase;
+  font-weight: bolder;
+  font-size: xx-large;
+}
+
+#tbd {
+  color: blueviolet;
+}
+
+#tkt {
+  color: rosybrown;
+}
+
+#tmh {
+  color: indianred;
+}
+
+#ntt {
+  color: darkseagreen;
+}
+
+#addButton {
+  color: blue;
+}
+
+#removeButton {
+  color: red;
+}
+
+#Friday {
+  color: yellowgreen;
+}
+
+#Tuesday {
+  color: violet;
+}
+
+#Wednesday {
+  color: cornflowerblue;
+}
+
+#Thursday {
+  color: darkorange;
+}
+
+#Monday {
+  color: deepskyblue;
+}
+
+#timeTable {
+  text-transform: uppercase;
+  color: darkcyan;
+  font-weight: bolder;
+  font-size: xx-large;
+}
+
+#period {
+  color: goldenrod;
+  text-transform: uppercase;
+  font-weight: bolder;
+}
+
+#time {
+  color: green;
+}
